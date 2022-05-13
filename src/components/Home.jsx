@@ -20,7 +20,7 @@ const Home = () => {
           fit for a team environment and also a quick learner.
         </p>
         <div>
-          <Link to="projects" offset={-70}>
+          <Link to="projects" offset={-70} smooth={true}>
             <button className="text-black group border-2 px-6 py-3 my-2 flex items-center hover:bg-cyan-400 hover:border-black">
               View Projects
               <span className="group-hover:rotate-90 duration-300">
