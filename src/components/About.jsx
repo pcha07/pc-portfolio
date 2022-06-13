@@ -14,10 +14,10 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>I'm glad you're taking the time to learn about me. Please look around.</p>
+              <p>I'm a web developer with an interest in building quality user experiences.With skills in design, digital marketing, and excellent programming skills, I can be the perfect fit for your project.</p>
             </div>
             <div>
-              <p>I am passionate about building quality user experiences. Being a curious individual, I am able to learn new technologies quickly thanks to my ambition. My personal traits help me excel in any situation that is in front of me. This is what makes me an excellent fit for your company. </p>  
+              <p></p>  
             </div>
           </div>
       </div>
