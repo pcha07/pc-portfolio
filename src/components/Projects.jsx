@@ -59,7 +59,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-black tracking-wider p-2">
-                MERN Ecommerce Application
+                Ecommerce Application
               </span>
               <p className="p-2">
                 Login as admin - email:admin@example.com - password:123456
@@ -89,7 +89,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-black tracking-wider ">
-                MERN stack + Next.js Application
+                Linkedin Clone
               </span>
               <div className="pt-8 text-center">
                 <a
@@ -119,7 +119,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-black tracking-wider">
-                Next.js and Firebase Application
+                Netflix Clone 
               </span>
               <p className="p-2">
                 Payment Info - Card Number:4242 4242 4242 4242 Exp:42/42 CVC:424
@@ -151,7 +151,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-black tracking-wider p-2">
-                Spotify clone using spotify web API
+                Spotify Clone
               </span>
               <p className="p-2">
                 Register for free trial or login with your spotify account
