@@ -5,7 +5,7 @@ import ReactSkill from "../assets/react.png";
 import Nodejs from "../assets/node.png";
 import Mongo from "../assets/mongo.png";
 import Redux from "../assets/redux.jpeg";
-import Firebase from "../assets/firebase.png";
+import GraphQL from "../assets/graphql.png";
 
 const Skills = () => {
   return (
@@ -49,8 +49,8 @@ const Skills = () => {
             <p className="my-4">Mongo</p>
           </div>
           <div className="shadow-lg rounded-lg hover:scale-110 duration-500 p-2">
-            <img src={Firebase} alt="html" className="w-20 mx-auto" />
-            <p className="my-4">Firebase</p>
+            <img src={GraphQL} alt="html" className="w-20 mx-auto" />
+            <p className="my-4">GraphQL</p>
           </div>
         </div>
       </div>
