@@ -5,6 +5,7 @@ import LinkedInClone from "../assets/linkedin-clone.png";
 import Spotify from "../assets/spotify-clone.png";
 import Restaurant from "../assets/restaurant.png";
 import Reddit from "../assets/reddit-clone.jpeg";
+import Spacex from "../assets/spacex.jpeg";
 
 const Projects = () => {
   return (
@@ -196,6 +197,34 @@ const Projects = () => {
                   href="https://github.com/pcha07/reddit-clone"
                   target="_blank"
                 >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-cyan-400 text-black font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Spacex})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md  flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-black tracking-wider p-2">
+                SpaceX website
+              </span>
+              <p className="p-2">HTML, CSS, JAVASCRIPT</p>
+
+              <div className="pt-8 text-center">
+                <a
+                  href="https://spacex-coral.vercel.app/index.html"
+                  target="_blank"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-cyan-400 text-black font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/pcha07/spacex" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-cyan-400 text-black font-bold text-lg">
                     Code
                   </button>
